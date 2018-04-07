@@ -2,18 +2,32 @@ import os
 import csv
 import glob
 
-syllableSQL = open("/home/ubuntu/scripts/load_db/syllable.sql", "w")
+syllableSQL = open("/home/ubuntu/scripts/load_db/syllable.csv", "w")
 
 path = '/home/ubuntu/statistics'
 for filename in glob.glob(os.path.join(path, 'fixed_*_syllables.txt')):
     syllables = open(filename, 'r')
+
+    counts = filename[:-14]
+    countFile = counts + "_count.txt"
+    wordCount = open(countFile, 'r')
+
+
+
     topLine = syllables.readline()
+    topLine2 = wordCount.readline()
     
     items = [x.strip() for x in topLine.split(',')]
+    items2 = [x.strip() for x in topLine2.split(',')]
 
     artist = items[1]
     genre = items[2]
     song = items[0]
+
+    count = 0
+    dummyLine = next(wordCount)
+    count = int(next(wordCount))
+    print(count)
 
     ones = 0
     twos = 0
@@ -47,6 +61,4 @@ for filename in glob.glob(os.path.join(path, 'fixed_*_syllables.txt')):
         elif(line[:-1] == '10'):
             tens = tens + 1
 
-    syllableSQL.write("INSERT INTO syllables(song_name, artist_name, one_syll, two_syll, three_syll, four_syll, five_syll, six_syll," \
-        "seven_syll, eight_syll, nine_syll, ten_syll) VALUES (\"" + song + "\",\"" + artist + "\"," + str(ones) + "," + str(twos) + "," + str(threes) + "," +
-        str(fours) + "," + str(fives) + "," + str(sixes) + "," + str(sevens) + "," + str(eights) + "," + str(nines) + "," + str(tens) + ");\n")
+    syllableSQL.write(song + "," + artist + "," + genre + "," + str(count) + "," +  str(ones) + "," + str(twos) + "," + str(threes) + "," + str(fours) + "," + str(fives) + "," + str(sixes) + "," + str(sevens) + "," + str(eights) + "," + str(nines) + "," + str(tens) + "\n")

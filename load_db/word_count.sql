@@ -1,194 +1,221 @@
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("179","Rich","Maren Morris");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("101","Get To You","Michael Ray");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("64","Safari Song","Greta Van Fleet");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("379","Criminal","Lindsay Ell");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("91","At The Club","Jacquees X Dej Loaf");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("62","I Like Me Better","Lauv");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("36","Everybody Wants To Be Famous","Superorganism");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("74","Meant To Be","Bebe Rexha & Florida Georgia Line");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("49","White Flag","Bishop Briggs");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("154","Get Out","CHVRCHES");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("135","BoomTrap Protocol","Logic");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("183","Plain Jane","A$AP Ferg Featuring Nicki Minaj");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("126","Plug Walk","Rich The Kid");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("58","You Worry Me","Nathaniel Rateliff & The Night Sweats");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("145","Mine","Bazzi");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("40","Everybody's Lonely","Jukebox The Ghost");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("34","Red Cold River","Breaking Benjamin");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("798","Butterflies","Kacey Musgraves");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("69","The Long Way","Brett Eldredge");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("1509","The Mountain","Three Days Grace");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("127","Havana","Camila Cabello Featuring Young Thug");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("82","Take Back Home Girl","Chris Lane Featuring Tori Kelly");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("112","Heaven","Kane Brown");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("326","This Is It","Scotty McCreery");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("72","Merengue","Kent Jones");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("171","New Freezer","Rich The Kid Featuring Kendrick Lamar");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("109","Pray For Me","The Weeknd & Kendrick Lamar");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("188","Midnight","Logic");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("84","Sit Next To Me","Foster The People");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("80","Kiss Somebody","Morgan Evans");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("220","Changes","XXXTentacion");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("253","Want You Back","5 Seconds Of Summer");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("435","Bulletproof","Godsmack");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("99","I Lived It","Blake Shelton");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("212","Yuck","Logic");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("188","Up All Night","Beck");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("61","Gone Away","Five Finger Death Punch");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("103","Favorite Color Is Blue","Robert DeLong + KFlay");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("184","Look Alive","BlocBoy JB Featuring Drake");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("83","Mystery Of Love","Sufjan Stevens");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("105","Whatever It Takes","Imagine Dragons");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("179","Rockstar","Post Malone Featuring 21 Savage");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("212","Boy","Lee Brice");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("221","Indica Badu","Logic Featuring Wiz Khalifa");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("60","Doubt","Joywave");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("193","&Run","Sir Sly");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("61","Waking Lions","Pop Evil");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("27","Boom!","Lil Yachty Featuring Ugly God");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("156","Contra","Logic");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("66","Doin' Fine","Lauren Alaina");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("108","All The Stars","Kendrick Lamar & SZA");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("55","Connected By Love","Jack White");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("135","Wolves","Selena Gomez X Marshmello");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("263","Everyday","Logic & Marshmello");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("156","Something 'Bout You","Sir Rosevelt");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("192","Love","Kendrick Lamar Featuring Zacari");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("48","Dangerous Night","Thirty Seconds To Mars");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("60","You Make It Easy","Jason Aldean");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("184","Ric Flair Drip","Offset & Metro Boomin");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("208","Pink Lemonade","James Bay");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("385","MotorSport","Migos");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("245","King's Dead","Jay Rock");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("69","Rise Up","Imagine Dragons");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("54","My My My!","Troye Sivan");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("61","Hurt Somebody","Noah Kahan & Julia Michaels");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("263","Warm It Up","Logic Featuring Young Sinatra");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("66","Parallel Line","Keith Urban");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("72","Happens Like That","Granger Smith");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("61","Hangin' On","Chris Young");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("63","Beg","Jack & Jack");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("92","Nervous","The Neighbourhood");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("76","Never Be The Same","Camila Cabello");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("268","Narcos","Migos");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("97","Millionaire","Chris Stapleton");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("53","She's With Me","High Valley");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("72","Over And Over And Over","Jack White");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("147","Let You Down","NF");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("112","Five More Minutes","Scotty McCreery");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("89","Hurricane","The Band Of Heathens");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("74","Hide The Wine","Carly Pearce");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("104","God's Plan","Drake");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("59","The Gold","Manchester Orchestra");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("46","Saturday Sun","Vance Joy");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("227","Billy","6ix9ine");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("76","Ones That Like Me","Brantley Gilbert");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("100","Curious","Hayley Kiyoko");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("44","Where's My Love","SYML");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("97","IDGAF","Dua Lipa");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("314","Everything's Gonna Be Alright","David Lee Murphy & Kenny Chesney");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("215","Stir Fry","Migos");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("118","Wait","Maroon 5");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("78","What's Mine Is Yours","Kane Brown");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("77","I Was Jack (You Were Diane)","Jake Owen");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("57","Sober Up","AJR Featuring Rivers Cuomo");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("216","Top Off","DJ Khaled Featuring JAY Z");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("51","Right Left Wrong","Three Days Grace");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("45","Hooked","Dylan Scott");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("66","The Middle","Zedd");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("120","Celebrate","Dirty Heads Featuring The Unlikely Candidates");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("137","X","ScHoolboy Q");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("64","Going To Mars","Judah & The Lion");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("63","One Foot","WALK THE MOON");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("87","Beautiful Trauma","P!nk");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("192","Friends","Marshmello & Anne-Marie");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("65","Drunk Girl","Chris Janson");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("82","I Fall Apart","Post Malone");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("265","Walk It Talk It","Migos Featuring Drake");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("240","NBAYoungboat","Lil Yachty Featuring NBA YoungBoy");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("68","Hold Me Tight Or Don't","Fall Out Boy");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("179","Dark Knight Dummo","Trippie Redd Featuring Travis Scott");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("60","Someone To You","BANNERS");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("69","Born For Greatness","Papa Roach");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("64","Los Ageless","St Vincent");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("63","Tell Me You Love Me","Demi Lovato");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("82","Scary Love","The Neighbourhood");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("53","Woman","Amen");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("186","Bartier Cardi","Cardi B Featuring 21 Savage");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("258","Zombie","Bad Wolves");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("53","Handyman","AWOLNATION");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("69","Legend","The Score");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("122","Outside Today","YoungBoy Never Broke Again");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("33","I Feel Like I'm Drowning","Two Feet");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("289","66","Lil Yachty Featuring Trippie Redd");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("325","Powerglide","Rae Sremmurd & Juicy J");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("55","She Ain't In It","Jon Pardi");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("126","Trust Fund Baby","Why Don't We");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("233","River","Eminem Featuring Ed Sheeran");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("93","Booty","Blac Youngsta");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("62","Heart Break","Lady Antebellum");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("90","Delicate","Taylor Swift");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("149","Finesse","Bruno Mars & Cardi B");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("39","Sad!","XXXTentacion");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("105","Wassup","Logic Featuring Big Sean");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("104","New Rules","Dua Lipa");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("29","Astronaut (Something About Your Love)","Mansionair");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("65","Break Up In The End","Cole Swindell");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("72","Lights Down Low","MAX Featuring gnash");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("242","44 More","Logic");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("62","No Roots","Alice Merton");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("122","Female","Keith Urban");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("273","Walk On Water","Thirty Seconds To Mars");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("97","One Number Away","Luke Combs");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("115","Walking On Water","NEEDTOBREATHE");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("59","I Hope You're Happy","Blue October");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("148","Nowadays","Lil Skies Featuring Landon Cube");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("133","For The First Time","Darius Rucker");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("267","Wild West","Runaway June");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("203","Red Roses","Lil Skies Featuring Landon Cube");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("139","Overnight","Logic");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("68","I'd Be Jealous Too","Dustin Lynch");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("51","Thunder","Imagine Dragons");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("100","A Little Dive Bar In Dahlonega","Ashley McBryde");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("296","Mercy","Brett Young");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("270","Devil","Shinedown");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("74","Singles You Up","Jordan Davis");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("95","I Love You","Will You Marry Me");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("173","All On Me","Devin Dawson");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("90","Run For Cover","The Killers");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("86","Happy Hour","Weezer");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("65","No Excuses","Meghan Trainor");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("167","Can't Deny Me","Pearl Jam");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("116","We Fight","Dashboard Confessional");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("80","Feel It Still","Portugal The Man");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("160","Void","The Neighbourhood");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("80","ThunderYoung Dumb & Broke (Medley)","Imagine Dragons + Khalid");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("51","House On Fire","Rise Against");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("86","Most People Are Good","Luke Bryan");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("175","Hardaway","Derez De'Shon");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("45","Thought Contagion","Muse");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("92","Bad At Love","Halsey");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("67","Born To Love You","LANCO");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("108","Three Chords & The Truth","Chase Rice");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("33","Broken Halos","Chris Stapleton");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("113","Psycho","Post Malone Featuring Ty Dolla $ign");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("157","Up Down","Morgan Wallen Featuring Florida Georgia Line");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("94","Tequila","Dan + Shay");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("168","Him & I","G-Eazy & Halsey");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("83","Marry Me","Thomas Rhett");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("90","Perfect","Ed Sheeran");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("53","On The Loose","Niall Horan");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("81","Shoot Me Straight","Brothers Osborne");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("59","Kinda Don't Care","Justin Moore");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("18","Wild Love","James Bay");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("268","Pick It Up","Famous Dex Featuring A$AP Rocky");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("116","Broken","lovelytheband");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("30","Say Something","Justin Timberlake Featuring Chris Stapleton");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("71","Next To Me","Imagine Dragons");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("42","Two High","Moon Taxi");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("166","Lemon","N*E*R*D & Rihanna");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("67","Live In The Moment","Portugal The Man");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("65","Sorry","Nothing But Thieves");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("185","Best Friend","Sofi Tukker Featuring NERVO");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("132","Gummo","6ix9ine");
-INSERT INTO unique_words(word_count, song_name, artist_name) VALUES ("104","Believer","Imagine Dragons");
+"63","Hope","XXXTentacion"
+"179","Rich","Maren Morris"
+"101","Get To You","Michael Ray"
+"64","Safari Song","Greta Van Fleet"
+"379","Criminal","Lindsay Ell"
+"91","At The Club","Jacquees X Dej Loaf"
+"62","I Like Me Better","Lauv"
+"36","Everybody Wants To Be Famous","Superorganism"
+"74","Meant To Be","Bebe Rexha & Florida Georgia Line"
+"49","White Flag","Bishop Briggs"
+"154","Get Out","CHVRCHES"
+"135","BoomTrap Protocol","Logic"
+"183","Plain Jane","A$AP Ferg Featuring Nicki Minaj"
+"126","Plug Walk","Rich The Kid"
+"58","You Worry Me","Nathaniel Rateliff & The Night Sweats"
+"145","Mine","Bazzi"
+"40","Everybody's Lonely","Jukebox The Ghost"
+"34","Red Cold River","Breaking Benjamin"
+"798","Butterflies","Kacey Musgraves"
+"69","The Long Way","Brett Eldredge"
+"1509","The Mountain","Three Days Grace"
+"127","Havana","Camila Cabello Featuring Young Thug"
+"82","Take Back Home Girl","Chris Lane Featuring Tori Kelly"
+"112","Heaven","Kane Brown"
+"69","Rearview Town","Jason Aldean"
+"326","This Is It","Scotty McCreery"
+"72","Merengue","Kent Jones"
+"171","New Freezer","Rich The Kid Featuring Kendrick Lamar"
+"81","The Remedy For A Broke Heart (Why Am I So In Love)","XXXTentacion"
+"109","Pray For Me","The Weeknd & Kendrick Lamar"
+"188","Midnight","Logic"
+"84","Sit Next To Me","Foster The People"
+"80","Kiss Somebody","Morgan Evans"
+"220","Changes","XXXTentacion"
+"253","Want You Back","5 Seconds Of Summer"
+"435","Bulletproof","Godsmack"
+"99","I Lived It","Blake Shelton"
+"212","Yuck","Logic"
+"188","Up All Night","Beck"
+"50","Gone Away","Five Finger Death Punch"
+"103","Favorite Color Is Blue","Robert DeLong + KFlay"
+"184","Look Alive","BlocBoy JB Featuring Drake"
+"83","Mystery Of Love","Sufjan Stevens"
+"105","Whatever It Takes","Imagine Dragons"
+"179","Rockstar","Post Malone Featuring 21 Savage"
+"212","Boy","Lee Brice"
+"221","Indica Badu","Logic Featuring Wiz Khalifa"
+"60","Doubt","Joywave"
+"193","&Run","Sir Sly"
+"74","Get You","Daniel Caesar Featuring Kali Uchis"
+"61","Waking Lions","Pop Evil"
+"27","Boom!","Lil Yachty Featuring Ugly God"
+"220","Freaky Friday","Lil Dicky Featuring Chris Brown"
+"156","Contra","Logic"
+"149","Alone","Halsey Featuring Big Sean & Stefflon Don"
+"42","Alone","Part 3"
+"76","Doin' Fine","Lauren Alaina"
+"108","All The Stars","Kendrick Lamar & SZA"
+"55","Connected By Love","Jack White"
+"135","Wolves","Selena Gomez X Marshmello"
+"263","Everyday","Logic & Marshmello"
+"156","Something 'Bout You","Sir Rosevelt"
+"46","Moonlight","XXXTentacion"
+"192","Love","Kendrick Lamar Featuring Zacari"
+"48","Dangerous Night","Thirty Seconds To Mars"
+"60","You Make It Easy","Jason Aldean"
+"184","Ric Flair Drip","Offset & Metro Boomin"
+"208","Pink Lemonade","James Bay"
+"385","MotorSport","Migos"
+"245","King's Dead","Jay Rock"
+"69","Rise Up","Imagine Dragons"
+"95","$$$","XXXtentacion & Matt Ox"
+"54","My My My!","Troye Sivan"
+"61","Hurt Somebody","Noah Kahan & Julia Michaels"
+"263","Warm It Up","Logic Featuring Young Sinatra"
+"66","Parallel Line","Keith Urban"
+"72","Happens Like That","Granger Smith"
+"61","Hangin' On","Chris Young"
+"63","Beg","Jack & Jack"
+"92","Nervous","The Neighbourhood"
+"76","Never Be The Same","Camila Cabello"
+"268","Narcos","Migos"
+"97","Millionaire","Chris Stapleton"
+"53","She's With Me","High Valley"
+"72","Over And Over And Over","Jack White"
+"147","Let You Down","NF"
+"112","Five More Minutes","Scotty McCreery"
+"89","Hurricane","The Band Of Heathens"
+"74","Hide The Wine","Carly Pearce"
+"104","God's Plan","Drake"
+"59","The Gold","Manchester Orchestra"
+"46","Saturday Sun","Vance Joy"
+"227","Billy","6ix9ine"
+"76","Ones That Like Me","Brantley Gilbert"
+"100","Curious","Hayley Kiyoko"
+"80","Queens Don't","RaeLynn"
+"44","Where's My Love","SYML"
+"97","IDGAF","Dua Lipa"
+"314","Everything's Gonna Be Alright","David Lee Murphy & Kenny Chesney"
+"215","Stir Fry","Migos"
+"118","Wait","Maroon 5"
+"171","Coming Home","Keith Urban Featuring Julia Michaels"
+"78","What's Mine Is Yours","Kane Brown"
+"52","Severed","The Decemberists"
+"77","I Was Jack (You Were Diane)","Jake Owen"
+"57","Sober Up","AJR Featuring Rivers Cuomo"
+"216","Top Off","DJ Khaled Featuring JAY Z"
+"51","Right Left Wrong","Three Days Grace"
+"45","Hooked","Dylan Scott"
+"66","The Middle","Zedd"
+"120","Celebrate","Dirty Heads Featuring The Unlikely Candidates"
+"122","Sativa","Jhene Aiko Featuring Swae Lee Or Rae Sremmurd"
+"137","X","ScHoolboy Q"
+"64","Going To Mars","Judah & The Lion"
+"63","One Foot","WALK THE MOON"
+"87","Beautiful Trauma","P!nk"
+"192","Friends","Marshmello & Anne-Marie"
+"65","Drunk Girl","Chris Janson"
+"82","I Fall Apart","Post Malone"
+"265","Walk It Talk It","Migos Featuring Drake"
+"241","NBAYoungboat","Lil Yachty Featuring NBA YoungBoy"
+"182","Rubbin Off The Paint","YBN Nahmir"
+"65","(Fuck A) Silver Lining","Panic! At The Disco"
+"68","Hold Me Tight Or Don't","Fall Out Boy"
+"179","Dark Knight Dummo","Trippie Redd Featuring Travis Scott"
+"60","Someone To You","BANNERS"
+"69","Born For Greatness","Papa Roach"
+"64","Los Ageless","St Vincent"
+"63","Tell Me You Love Me","Demi Lovato"
+"82","Scary Love","The Neighbourhood"
+"53","Woman","Amen"
+"186","Bartier Cardi","Cardi B Featuring 21 Savage"
+"258","Zombie","Bad Wolves"
+"53","Handyman","AWOLNATION"
+"54","In My Blood","Shawn Mendes"
+"69","Legend","The Score"
+"99","Turn","The Wombats"
+"172","Infinity (888)","XXXtentacion Featuring Joey Bada$$"
+"121","Outside Today","YoungBoy Never Broke Again"
+"33","I Feel Like I'm Drowning","Two Feet"
+"289","66","Lil Yachty Featuring Trippie Redd"
+"325","Powerglide","Rae Sremmurd & Juicy J"
+"55","She Ain't In It","Jon Pardi"
+"126","Trust Fund Baby","Why Don't We"
+"233","River","Eminem Featuring Ed Sheeran"
+"93","Booty","Blac Youngsta"
+"230","18","My Silent Bravery"
+"62","Heart Break","Lady Antebellum"
+"92","Delicate","Taylor Swift"
+"149","Finesse","Bruno Mars & Cardi B"
+"39","Sad!","XXXTentacion"
+"105","Wassup","Logic Featuring Big Sean"
+"118","Speakers","Bleachers And Preachers"
+"104","New Rules","Dua Lipa"
+"29","Astronaut (Something About Your Love)","Mansionair"
+"65","Break Up In The End","Cole Swindell"
+"72","Lights Down Low","MAX Featuring gnash"
+"68","Make Me Feel","Janelle Monae"
+"242","44 More","Logic"
+"62","No Roots","Alice Merton"
+"122","Female","Keith Urban"
+"273","Walk On Water","Thirty Seconds To Mars"
+"97","One Number Away","Luke Combs"
+"115","Walking On Water","NEEDTOBREATHE"
+"59","I Hope You're Happy","Blue October"
+"148","Nowadays","Lil Skies Featuring Landon Cube"
+"133","For The First Time","Darius Rucker"
+"267","Wild West","Runaway June"
+"203","Red Roses","Lil Skies Featuring Landon Cube"
+"139","Overnight","Logic"
+"68","I'd Be Jealous Too","Dustin Lynch"
+"51","Thunder","Imagine Dragons"
+"100","A Little Dive Bar In Dahlonega","Ashley McBryde"
+"296","Mercy","Brett Young"
+"271","Devil","Shinedown"
+"156","Unstoppable","The Score"
+"74","Singles You Up","Jordan Davis"
+"98","I Love You","Will You Marry Me"
+"173","All On Me","Devin Dawson"
+"90","Run For Cover","The Killers"
+"64","Say Amen (Saturday Night)","Panic! At The Disco"
+"86","Happy Hour","Weezer"
+"65","No Excuses","Meghan Trainor"
+"167","Can't Deny Me","Pearl Jam"
+"116","We Fight","Dashboard Confessional"
+"80","Feel It Still","Portugal The Man"
+"160","Void","The Neighbourhood"
+"80","ThunderYoung Dumb & Broke (Medley)","Imagine Dragons + Khalid"
+"51","House On Fire","Rise Against"
+"86","Most People Are Good","Luke Bryan"
+"175","Hardaway","Derez De'Shon"
+"45","Thought Contagion","Muse"
+"92","Bad At Love","Halsey"
+"67","Born To Love You","LANCO"
+"108","Three Chords & The Truth","Chase Rice"
+"186","Tempo","Chris Brown"
+"33","Broken Halos","Chris Stapleton"
+"113","Psycho","Post Malone Featuring Ty Dolla $ign"
+"157","Up Down","Morgan Wallen Featuring Florida Georgia Line"
+"94","Tequila","Dan + Shay"
+"168","Him & I","G-Eazy & Halsey"
+"83","Marry Me","Thomas Rhett"
+"90","Perfect","Ed Sheeran"
+"53","On The Loose","Niall Horan"
+"86","Can We Hang On","Cold War Kids"
+"81","Shoot Me Straight","Brothers Osborne"
+"59","Kinda Don't Care","Justin Moore"
+"18","Wild Love","James Bay"
+"268","Pick It Up","Famous Dex Featuring A$AP Rocky"
+"116","Broken","lovelytheband"
+"0","For The Damaged Coda","Blonde Redhead"
+"30","Say Something","Justin Timberlake Featuring Chris Stapleton"
+"71","Next To Me","Imagine Dragons"
+"42","Two High","Moon Taxi"
+"166","Lemon","N*E*R*D & Rihanna"
+"67","Live In The Moment","Portugal The Man"
+"70","Going Down!","XXXTentacion"
+"65","Sorry","Nothing But Thieves"
+"185","Best Friend","Sofi Tukker Featuring NERVO"
+"132","Gummo","6ix9ine"
+"104","Believer","Imagine Dragons"
